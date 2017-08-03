@@ -1,0 +1,7 @@
+com\jcloud\spark\plugin\cdnLog\dc\KafkaSparkCDNLogBV08V1T1.class
+com\jcloud\spark\plugin\cdnLog\dc\ConstantCDNLog.class
+com\jcloud\spark\plugin\cdnLog\dc\KafkaSparkCDNLogBV08V1T1$2.class
+com\jcloud\spark\plugin\cdnLog\dc\FileConsumer.class
+com\jcloud\spark\plugin\cdnLog\dc\FileMaker.class
+com\jcloud\spark\plugin\cdnLog\dc\KafkaSparkCDNLogBV08V1T1$1.class
+com\jcloud\spark\plugin\cdnLog\dc\DataUtil.class
